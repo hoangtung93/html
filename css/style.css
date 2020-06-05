@@ -1,0 +1,33 @@
+h1{
+    color: red;
+    text-align: center;
+    margin: 20px 0;
+}
+*{
+    margin:0;
+    padding:0;
+}
+.parent{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.hoahong{
+    width: 40%;
+}
+.anh{
+    width: 100%;
+}
+.noidung {
+    width: 60%;
+}
+.gachngang {
+    height: 1px;
+    background-color: black;
+    margin: 20px 0 20px 0;
+}
+.list {
+    margin-left: 15px;
+}
+.list li {
+    padding: 3px 0;
+}
